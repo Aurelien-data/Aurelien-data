@@ -27,11 +27,10 @@
 ### Modernisation BI d'une PME industrielle
 - Création de 3 rapports:
   - Suivi du CA
+  -   exemple
   - Suivi des CE & SIG
   - Suivi de la production
-- exemple
-- exemple
-- exemple
+
 
 - Résultat
 
