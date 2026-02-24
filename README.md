@@ -7,19 +7,34 @@
 
 > Spécialisation : Power BI, Data Modeling, Data Architecture.
 
-- Conception d'architectures décisionnelles multi-sources
+- Création de rapports & dashboards Power BI
 - Modélisation en étoile & gouvernace data
-- Automatisation ETL
+- Automatisation ETL (Power BI, Dataiku)
+- exemple
 
 ---
 
 ## Ce que j'apporte à une organisation
-- Structuration d'un éco système data fiable
 - Mise en place d'une gouvernance data fiable
 - Centralisation des données métiers
 - Réduction significative du temps de reporting
+- exemple
+- exemple
 
 ---
+
+## Réalisations marquantes
+### Modernisation BI d'une PME industrielle
+- titre section 
+  - Création de 3 rapports:
+  - Suivi du CA
+  - Suivi des CE & SIG
+  - Suivi de la production
+- exemple
+- exemple
+- exemple
+
+- Résultat
 
 ## Stack technique
 
