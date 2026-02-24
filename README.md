@@ -24,16 +24,17 @@ Objectif : transformer la donnée brute en outil de décision fiable.
 
 ---
 
-🔄 ## De l'opérationnel à la Data
+## 🔄 Double compétence : Business & Data
 
-20 ans d’expérience en pilotage terrain avant reconversion data.
+20 ans d’expérience terrain en retail et réseaux commerciaux.
 
-Cette expérience me permet aujourd’hui de :
+- Pilotage d’activité
+- Gestion d’indicateurs de performance
+- Analyse de marges & rentabilité
+- Management d’équipes
+- Relation direction / terrain
 
-- Comprendre les enjeux financiers réels
-- Concevoir des indicateurs pertinents
-- Parler le langage des directions métiers
-- Éviter les modèles déconnectés du terrain
+Aujourd’hui, je conçois des architectures data avec cette même logique métier.
 
 ---
 
