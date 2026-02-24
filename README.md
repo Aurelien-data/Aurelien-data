@@ -24,7 +24,7 @@ Objectif : transformer la donnée brute en outil de décision fiable.
 
 ---
 
-🔄 De l’Opérationnel à la Data
+🔄 ## De l’Opérationnel à la Data
 
 20 ans d’expérience en pilotage terrain avant reconversion data.
 
