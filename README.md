@@ -24,6 +24,19 @@ Objectif : transformer la donnée brute en outil de décision fiable.
 
 ---
 
+🔄 De l’Opérationnel à la Data
+
+20 ans d’expérience en pilotage terrain avant reconversion data.
+
+Cette expérience me permet aujourd’hui de :
+
+- Comprendre les enjeux financiers réels
+- Concevoir des indicateurs pertinents
+- Parler le langage des directions métiers
+- Éviter les modèles déconnectés du terrain
+
+---
+
 ## 🎯 Ce que j'apporte à une organisation
 
 - 🏗 Structuration complète d'un système décisionnel
@@ -115,8 +128,9 @@ Certification professionnelle Data Analyst, RNCP niveau 6 code NSF 326
 ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-RNCP%20NSF%20326-blue?style=flat)
 
 
-
 Microsoft Fabric : Auto-formation (parcours en cours sur Microsoft Learn)
+
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6B3FA0?style=flat&logo=microsoft&logoColor=white)
 
 Dataiku DSS
 
@@ -126,7 +140,6 @@ Dataiku DSS
 
 ## 📚 Documentation & Research
 - Microsoft Fabric (résume des modules d'apprentissage)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6B3FA0?style=flat&logo=microsoft&logoColor=white)
 - Cheat Sheet PySpark | Lakehouse | Data Warehouse
 - Règels d'or Power BI | Modélisation | Power Query
 - Formules DAX
