@@ -112,14 +112,14 @@ Dataset structuré → nettoyage → scoring → dashboard décisionnel.
 
 Certification professionnelle Data Analyst, RNCP niveau 6 code NSF 326
 
-![Data Analyst](https://img.shields.io/badge/Data%20Analyst-RNCP%20NSF%20326-blue?style=flat&logo=python)
+![Data Analyst](https://img.shields.io/badge/Data%20Analyst-RNCP%20NSF%20326-blue?style=flat)
 
 
 
 Microsoft Fabric : Auto-formation (parcours en cours sur Microsoft Learn)
 
 Dataiku DSS
-
+![Dataiku](https://img.shields.io/badge/Dataiku-DSS-orange?style=flat&logo=dataiku&logoColor=white&logoWidth=32)
 ![DAtaiku](https://img.shields.io/badge/Dataiku%20DSS-light-blue?style=flat&logo=dataikudss&logoColor=black&logoWidth=32)
 
 ---
