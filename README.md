@@ -5,6 +5,9 @@ Conception d'architecture data fiables et évolutives pour le pilotage financier
 
 Spécialisation : Power BI | Modélisation décisionnelle | Automatisation ETL | Architecture Azure
 
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi)
+![Python](https://img.shields.io/badge/Python%20-green?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/SQL%20-yellow?style=flat&logo=sql)
 ![Power BI](https://img.shields.io/badge/PowerBI-Expert-yellow)
 ![Python](https://img.shields.io/badge/Python-ETL-green)
 ![SQL](https://img.shields.io/badge/SQL-Data-blue)
@@ -114,7 +117,7 @@ Certification professionnelle Data Analyst, RNCP niveau 6 code NSF 326
 
 ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-RNCP%20NSF%20326-blue?style=flat&logo=python)
 
-![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi)
+
 
 Microsoft Fabric : Auto-formation (parcours en cours sur Microsoft Learn)
 
