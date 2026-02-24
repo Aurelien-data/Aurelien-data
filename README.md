@@ -1,5 +1,5 @@
-## 👋 Bonjour, je suis Aurélien Prat
-Business Intelligence & Data Consultant | Data PLatform Enthusiast
+# 👋 Bonjour, je suis Aurélien Prat
+## Business Intelligence & Data Consultant | Data Platform Enthusiast
 
 Conception d'architecture data fiables et évolutives pour le pilotage financier et opérationnel.
 
