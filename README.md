@@ -8,12 +8,7 @@ Spécialisation : Power BI | Modélisation décisionnelle | Automatisation ETL |
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi&logoColor=black&logoWidth=32)
 ![Python](https://img.shields.io/badge/Python-green?style=flat&logo=python&logoColor=white&logoWidth=32)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=postgresql&logoColor=white&logoWidth=32)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-purple?style=flat&logo=microsoft-fabric&logoColor=white&logoWidth=32)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6B3FA0?style=flat&logo=microsoft&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6B3FA0?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Data%20Platform-6B3FA0?style=flat&logo=microsoft&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Enabled-444444?style=flat&logo=microsoft&logoColor=white)
-
 
 ---
 
