@@ -56,6 +56,7 @@ Objectif : transformer la donnée brute en outil de décision fiable.
 <img src="dso.png" width="450"/>
 - Implémentation de logiques YTD / N-1 / N-2 dynamiques
 <img src="CA.png" width="450"/>
+
 - Sécurisation des règles CE / SIG
 - Mise en place d'une architecture prête pour Azure
 
