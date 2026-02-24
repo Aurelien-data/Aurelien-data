@@ -52,6 +52,7 @@ Objectif : transformer la donnée brute en outil de décision fiable.
 
 - Refonte complète du modèle Power BI
 - Gestion avancée du lettrage comptable et DSO
+![DSO](dso.png)
 - Implémentation de logiques YTD / N-1 / N-2 dynamiques
 - Sécurisation des règles CE / SIG
 - Mise en place d'une architecture prête pour Azure
