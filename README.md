@@ -61,7 +61,7 @@ Objectif : transformer la donnée brute en outil de décision fiable.
 <img src="CA.png" width="450"/>
 
 - Sécurisation des règles CE / SIG
-- Mise en place d'une architecture prête pour Azure
+- Mise en place d'une architecture prête pour Azure / Fabric
 
 Résultat :
 - 3 rapports stratégiques Power BI déployés
