@@ -8,6 +8,7 @@ Spécialisation : Power BI | Modélisation décisionnelle | Automatisation ETL |
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi&logoColor=black&logoWidth=32)
 ![Python](https://img.shields.io/badge/Python-green?style=flat&logo=python&logoColor=white&logoWidth=32)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=postgresql&logoColor=white&logoWidth=32)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-Trained-purple?style=flat&logo=microsoft-fabric&logoColor=white&logoWidth=32)
 
 ---
 
@@ -119,8 +120,8 @@ Certification professionnelle Data Analyst, RNCP niveau 6 code NSF 326
 Microsoft Fabric : Auto-formation (parcours en cours sur Microsoft Learn)
 
 Dataiku DSS
+
 ![Dataiku](https://img.shields.io/badge/Dataiku-DSS-orange?style=flat&logo=dataiku&logoColor=white&logoWidth=32)
-![DAtaiku](https://img.shields.io/badge/Dataiku%20DSS-light-blue?style=flat&logo=dataikudss&logoColor=black&logoWidth=32)
 
 ---
 
