@@ -51,9 +51,11 @@ Objectif : transformer la donnée brute en outil de décision fiable.
 ### Modernisation BI - PME industrielle
 
 - Refonte complète du modèle Power BI
+<img src="star_schema.png" width="450"/>
 - Gestion avancée du lettrage comptable et DSO
-<img src="dso.png" width="300"/>
+<img src="dso.png" width="450"/>
 - Implémentation de logiques YTD / N-1 / N-2 dynamiques
+<img src="CA.png" width="450"/>
 - Sécurisation des règles CE / SIG
 - Mise en place d'une architecture prête pour Azure
 
