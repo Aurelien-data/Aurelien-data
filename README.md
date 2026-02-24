@@ -1,5 +1,5 @@
 # 👋 Bonjour, je suis Aurélien Prat
-## Business Intelligence & Data Consultant | Data Platform Enthusiast
+## Consultant BI & Data Analyst
 
 Conception d'architecture data fiables et évolutives pour le pilotage financier et opérationnel.
 
@@ -24,17 +24,17 @@ Objectif : transformer la donnée brute en outil de décision fiable.
 
 ---
 
-## Ce que j'apporte à une organisation
+## 🎯 Ce que j'apporte à une organisation
 
-- Structuration complète d'un système décisionnel
-- Réduction des retraitements Excel manuels
-- Fiabilisation des règles de calcul métiers
-- Gain de temps sur le reporting fianncier
-- Préparation à l'industrialisation Cloud
+- 🏗 Structuration complète d'un système décisionnel
+- 📊 Réduction des retraitements Excel manuels
+- 🔍 Fiabilisation des règles de calcul métiers
+- ⏱Gain de temps sur le reporting fianncier
+- ☁ Préparation à l'industrialisation Cloud
 
 ---
 
-## Réalisations marquantes
+## 🏭 Réalisations marquantes
 
 ### Modernisation BI - PME industrielle
 
@@ -51,7 +51,7 @@ Résultat :
 
 --- 
 
-## Vision architecture Data
+## 🧠 Vision architecture Data
 
 Sources ERP / Comptabilité / Production  
 ↓  
@@ -67,22 +67,22 @@ Approche progressive : stabilisation du modèle on-premise → préparation migr
 
 ---
 
-## Stack technique
+## 🛠 Stack technique
 
-### Langages
+### 💻 Langages
 - DAX
 - Power Query (M)
 - SQL
 - Python
 - Spark (initiation via Fabric)
 
-### Cloud & Data Platform
+### ☁ Cloud & Data Platform
 - Microsoft Azure (concept DW)
 - Microsoft Fabric (Lakehouse | Data Warehouse)
 - Modélisation OLAP
 - Architecture décisionnelle
 
-### Visualisation
+### 📊 Visualisation
 - Power BI (modélisation avancée)
 - KPI Finance / Production
 - ESG / CSRD dashboards
@@ -90,25 +90,25 @@ Approche progressive : stabilisation du modèle on-premise → préparation migr
 
 --- 
 
-## Projets Data
+## 📊 Projets Data
 
-### Pilotage financier & DSO
+### 🏢 Pilotage financier & DSO
 Architecture complète du suivi CA, CE, SIG, DSO avec règles métiers sécurisées.
 
-### Historisation Avancement Production
+### 📈 Historisation Avancement Production
 Snapshots automatisés via Python + intégration Power BI.
 
-### Chess Analytics
+### ♟ Chess Analytics
 Pipeline Python (PGN parsing) → CSV → Power BI
 
 Exploration future : PostgreSQL + Streamlit
 
-### ESG / CSRD Analytics
+### 🌱 ESG / CSRD Analytics
 Dataset structuré → nettoyage → scoring → dashboard décisionnel.
 
 ---
 
-## Certifications & Formation
+## 🏅 Certifications & Formation
 
 Certification professionnelle Data Analyst, RNCP niveau 6 code NSF 326
 
@@ -120,7 +120,7 @@ Dataiku DSS
 
 ---
 
-## Documentation & Research
+## 📚 Documentation & Research
 - Microsoft Fabric (résume des modules d'apprentissage)
 - Cheat Sheet PySpark | Lakehouse | Data Warehouse
 - Règels d'or Power BI | Modélisation | Power Query
@@ -128,11 +128,13 @@ Dataiku DSS
 
 ---
 
-## Contact
+## 📬 Contact
 
-Bordeaux
-LinkedIn : []
-Email : []
+📍 Bordeaux
+
+🔗 LinkedIn : []
+
+✉️ Email : []
 
 Ouvert aux opportunités CDI Data Analyst | Data Engineer BI
 Disponible pour missions de conseil via APBI Consulting
