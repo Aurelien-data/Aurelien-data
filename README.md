@@ -106,6 +106,7 @@ Approche progressive : stabilisation du modèle on-premise → préparation migr
 
 ### 📊 Visualisation
 - Power BI (modélisation avancée)
+- Python (Matplotlib, Seaborn, Plotly)
 - KPI Finance / Production
 - ESG / CSRD dashboards
 - Data storytelling orienté décision
