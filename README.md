@@ -98,6 +98,7 @@ Snapshots automatisés via Python + intégration Power BI.
 
 ### Chess Analytics
 Pipeline Python (PGN parsing) → CSV → Power BI
+
 Exploration future : PostgreSQL + Streamlit
 
 ### ESG / CSRD Analytics
@@ -108,7 +109,9 @@ Dataset structuré → nettoyage → scoring → dashboard décisionnel.
 ## Certifications & Formation
 
 Certification professionnelle Data Analyst, RNCP niveau 6 code NSF 326
+
 Microsoft Fabric : Auto-formation (parcours en cours sur Microsoft Learn)
+
 Dataiku DSS
 
 ---
