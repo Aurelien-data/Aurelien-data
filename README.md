@@ -3,7 +3,7 @@
 ---
 
 ## A propos de moi
-texte
+> J'aide les entreprise à structurer, fiabiliser et expoloiter leurs données pour un pilotage financier et opérationnel fiable.
 
 ---
 
@@ -31,9 +31,6 @@ texte
 ---
 
 ## Projets Data
-texte
-
-### Projets Ervent
 texte
 
 ### Projet Chesscom
