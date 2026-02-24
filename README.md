@@ -1,4 +1,6 @@
-## 👋 Bonjour, je suis Aurélien Prat - Consultant BI & Data Analyst
+## 👋 Bonjour, je suis Aurélien Prat
+Consultant BI & Data Analyst
+
 
 ---
 
