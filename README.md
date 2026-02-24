@@ -64,6 +64,7 @@ Objectif : transformer la donnée brute en outil de décision fiable.
 - Mise en place d'une architecture prête pour Azure
 
 Résultat :
+- 3 rapports stratégiques Power BI déployés
 - Pilotage financier fiabilisé
 - Indicateurs cohérents avec SAGE 100
 - Réduction des erreurs liées aux retraitements manuels
