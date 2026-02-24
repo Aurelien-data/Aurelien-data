@@ -61,6 +61,8 @@ Résultat :
 - Indicateurs cohérents avec SAGE 100
 - Réduction des erreurs liées aux retraitements manuels
 
+
+
 --- 
 
 ## 🧠 Vision architecture Data
