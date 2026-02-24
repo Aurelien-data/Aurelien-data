@@ -164,5 +164,6 @@ Dataiku DSS
 ✉️ Email : [apbi.consultant@gmail.com]
 
 Ouvert aux opportunités CDI Data Analyst | Data Engineer BI
+
 Disponible pour missions de conseil via APBI Consulting
 
