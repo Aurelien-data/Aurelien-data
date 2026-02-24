@@ -8,7 +8,6 @@ Spécialisation : Power BI | Modélisation décisionnelle | Automatisation ETL |
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi&logoColor=black&logoWidth=32)
 ![Python](https://img.shields.io/badge/Python-green?style=flat&logo=python&logoColor=white&logoWidth=32)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=postgresql&logoColor=white&logoWidth=32)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6B3FA0?style=flat&logo=microsoft&logoColor=white)
 
 ---
 
@@ -127,6 +126,7 @@ Dataiku DSS
 
 ## 📚 Documentation & Research
 - Microsoft Fabric (résume des modules d'apprentissage)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6B3FA0?style=flat&logo=microsoft&logoColor=white)
 - Cheat Sheet PySpark | Lakehouse | Data Warehouse
 - Règels d'or Power BI | Modélisation | Power Query
 - Formules DAX
