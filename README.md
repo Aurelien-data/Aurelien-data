@@ -25,8 +25,7 @@
 
 ## Réalisations marquantes
 ### Modernisation BI d'une PME industrielle
-- titre section 
-  - Création de 3 rapports:
+- Création de 3 rapports:
   - Suivi du CA
   - Suivi des CE & SIG
   - Suivi de la production
