@@ -114,7 +114,7 @@ Certification professionnelle Data Analyst, RNCP niveau 6 code NSF 326
 
 ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-RNCP%20NSF%20326-blue?style=flat&logo=python)
 
-![Power BI](https://img.shields.io/badge/Data%20Analyst-RNCP%20NSF%20326-blue?style=flat&logo=microsoft-power-bi)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi)
 
 Microsoft Fabric : Auto-formation (parcours en cours sur Microsoft Learn)
 
