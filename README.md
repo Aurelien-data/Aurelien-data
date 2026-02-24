@@ -111,6 +111,7 @@ Dataset structuré → nettoyage → scoring → dashboard décisionnel.
 ## Certifications & Formation
 
 Certification professionnelle Data Analyst, RNCP niveau 6 code NSF 326
+
 ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-RNCP%20NSF%20326-blue?style=flat&logo=python)
 
 Microsoft Fabric : Auto-formation (parcours en cours sur Microsoft Learn)
