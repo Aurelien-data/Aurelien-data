@@ -34,8 +34,6 @@ Objectif : transformer la donnée brute en outil de décision fiable.
 - Management d’équipes
 - Relation direction / terrain
 
-Aujourd’hui, je conçois des architectures data avec cette même logique métier.
-
 ---
 
 ## 🎯 Ce que j'apporte à une organisation
