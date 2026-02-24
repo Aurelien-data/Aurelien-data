@@ -5,9 +5,9 @@ Conception d'architecture data fiables et évolutives pour le pilotage financier
 
 Spécialisation : Power BI | Modélisation décisionnelle | Automatisation ETL | Architecture Azure
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Trained-yellow?style=flat&logo=microsoft-power-bi&logoColor=black&logoWidth=32)
-![Python](https://img.shields.io/badge/Python-Trained-green?style=flat&logo=python&logoColor=white&logoWidth=32)
-![SQL](https://img.shields.io/badge/SQL-Trained-blue?style=flat&logo=postgresql&logoColor=white&logoWidth=32)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi&logoColor=black&logoWidth=32)
+![Python](https://img.shields.io/badge/Python-green?style=flat&logo=python&logoColor=white&logoWidth=32)
+![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=postgresql&logoColor=white&logoWidth=32)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Trained-yellow?style=flat&logo=microsoft-power-bi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-Trained-green?style=flat&logo=python&logoColor=white)
