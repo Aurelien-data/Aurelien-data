@@ -7,10 +7,8 @@ Spécialisation : Power BI | Modélisation décisionnelle | Automatisation ETL |
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi)
 ![Python](https://img.shields.io/badge/Python%20-green?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/SQL%20-yellow?style=flat&logo=sql)
-![Power BI](https://img.shields.io/badge/PowerBI-Expert-yellow)
-![Python](https://img.shields.io/badge/Python-ETL-green)
-![SQL](https://img.shields.io/badge/SQL-Data-blue)
+![SQL](https://img.shields.io/badge/SQL%20-blue?style=flat&logo=SQL)
+
 
 ---
 
