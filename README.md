@@ -1,13 +1,15 @@
 # 👋 Bonjour, je suis Aurélien Prat
 ## Business Intelligence Consultant | Data & Cloud
 
-Conception d'architecture data **fiables** et **évolutives** pour le pilotage financier et opérationnel.
+Conception d'architecture data **fiables**, **gouvernées** et **évolutives** pour le pilotage financier et opérationnel.
+
+Du modèle métier à la plateforme data.
 
 Spécialisation : Power BI | Dataiku DSS | Modélisation décisionnelle | Automatisation ETL | Architecture Data
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi&logoColor=black&logoWidth=32)
 ![Python](https://img.shields.io/badge/Python-green?style=flat&logo=python&logoColor=white&logoWidth=32)
-![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=postgresql&logoColor=white&logoWidth=32)
+![SQL](https://img.shields.io/badge/SQL-black?style=flat&logo=postgresql&logoColor=white&logoWidth=32)
 ![MYSQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql&logoColor=white&logoWidth=32)
 ![Dataiku](https://img.shields.io/badge/Dataiku-DSS-orange?style=flat&logo=dataiku&logoColor=white&logoWidth=32)
 
