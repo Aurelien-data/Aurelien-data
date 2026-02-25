@@ -102,18 +102,6 @@ Approche :
 
 <img src="Architecture_Data_Cible.png" width="450"/>
 
-Sources ERP / Comptabilité / Production  
-↓  
-Power Query / ETL Python  
-↓  
-Modèle en étoile (Star Schema)  
-↓  
-Data Warehouse (cible Azure SQL / Fabric)  
-↓  
-Power BI – Reporting & Pilotage 
-
-Approche progressive : stabilisation du modèle on-premise → préparation migration Cloud
-
 ---
 
 ## 🛠 Stack technique
