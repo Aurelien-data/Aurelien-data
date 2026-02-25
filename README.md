@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Aurélien Prat
 ## Business Intelligence Consultant | Data & Cloud
 
-Conception d'architecture data fiables et évolutives pour le pilotage financier et opérationnel.
+Conception d'architecture data **fiables** et **évolutives* pour le pilotage financier et opérationnel.
 
 Spécialisation : Power BI | Dataiku DSS | Modélisation décisionnelle | Automatisation ETL | Architecture Data
 
@@ -14,7 +14,7 @@ Spécialisation : Power BI | Dataiku DSS | Modélisation décisionnelle | Automa
 
 ## A propos de moi
 
-Consultant BI orienté data et architecture, j'accompagne les PME et organisations dans la structuration de leur écosystème data :
+Consultant BI orienté data et architecture, j'accompagne les PME et organisations dans la **structuration** de leur **écosystème data** :
 
 - Centralisation des sources (ERP, Comptabilité, Production)
 - Modélisation en étoile robuste
@@ -42,7 +42,7 @@ Objectif : transformer la donnée brute en outil de décision fiable.
 - 🏗 Structuration complète d'un système décisionnel
 - 📊 Réduction des retraitements Excel manuels
 - 🔍 Fiabilisation des règles de calcul métiers
-- ⏱Gain de temps sur le reporting fianncier
+- ⏱ Gain de temps sur le reporting fianncier
 - ☁ Préparation à l'industrialisation Cloud
 
 ---
@@ -92,11 +92,11 @@ Approche progressive : stabilisation du modèle on-premise → préparation migr
 ## 🛠 Stack technique
 
 ### 💻 Langages
-- DAX
-- Power Query (M)
-- SQL
-- Python
-- Spark (initiation via Fabric)
+- 'DAX'
+- Power Query ('M')
+- 'SQL'
+- 'Python'
+- 'Spark' (initiation via Fabric)
 
 ### ☁ Cloud & Data Platform
 - Microsoft Azure (concept DW)
@@ -107,8 +107,7 @@ Approche progressive : stabilisation du modèle on-premise → préparation migr
 ### 📊 Visualisation
 - Power BI (modélisation avancée)
 - Python (Matplotlib, Seaborn, Plotly)
-- KPI Finance / Production
-- ESG / CSRD dashboards
+- Dataiku DSS
 - Data storytelling orienté décision
 
 --- 
@@ -116,15 +115,20 @@ Approche progressive : stabilisation du modèle on-premise → préparation migr
 ## 📊 Projets Data
 
 ### 🏢 Pilotage financier & DSO
-Architecture complète du suivi CA, CE, SIG, DSO avec règles métiers sécurisées.
+Architecture complète du suivi CA, CE, SIG, DSO avec **règles métiers sécurisées**.
 
 ### 📈 Historisation Avancement Production
 Snapshots automatisés via Python + intégration Power BI.
 
 ### ♟ Chess Analytics
+
+[page notion]
+
+> Chess.com Analytics est un projet data industrialisé combinant ingestion automatisée, transformation Python, validation CI/CD et exploitation BI, conçu comme un futur Data Product évolutif vers une architecture cloud.
+
 Pipeline Python (PGN parsing) → CSV → Power BI
 
-Exploration future : PostgreSQL + Streamlit
+Développement en cours : PostgreSQL + Streamlit
 
 ### 🌱 ESG / CSRD Analytics
 Dataset structuré → nettoyage → scoring → dashboard décisionnel.
