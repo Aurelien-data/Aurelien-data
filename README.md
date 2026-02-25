@@ -179,6 +179,7 @@ Dataiku DSS
 ## 📚 Documentation & Research
 - Microsoft Fabric (résumé des modules d'apprentissage)
 - Cheat Sheet PySpark
+[Voir la cheat sheet](https://best-secure-14c.notion.site/PySpark-R-f-rence-Compl-te-des-Fonctions-Syntaxes-3102fd024ec38060be61d04eb54ee7e3?source=copy_link)
 - Cheat Sheet Lakehouse | Data Warehouse
 - Règles d'or Power BI | Modélisation | Power Query
 - Formules DAX
