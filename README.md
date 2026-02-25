@@ -107,7 +107,7 @@ Approche :
 ## 🛠 Stack technique
 
 ### 💻 Langages
-- 'DAX'
+'DAX'
 - Power Query ('M')
 - 'SQL'
 - 'Python'
