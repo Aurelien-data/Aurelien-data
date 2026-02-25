@@ -70,7 +70,23 @@ Résultat :
 - Indicateurs cohérents avec SAGE 100
 - Réduction des erreurs liées aux retraitements manuels
 
+---
 
+## 📊 Spécialisation – Pilotage Financier sous Power BI
+
+Conception et sécurisation d’architectures décisionnelles financières pour PME :
+
+- Suivi Chiffre d’Affaires (N / N-1 / YTD dynamiques)
+- Charges Externes & SIG
+- Analyse DSO & délais clients
+- Sécurisation des règles comptables (lettrage, dates de règlement reconstituées)
+- Concordance avec Sage 100
+
+Approche :
+- Modélisation en étoile robuste
+- Gouvernance des règles métier
+- Automatisation des calculs complexes
+- Préparation à une architecture Data Warehouse Azure
 
 --- 
 
@@ -123,15 +139,18 @@ Snapshots automatisés via Python + intégration Power BI.
 
 ### ♟ Chess Analytics
 
-[https://best-secure-14c.notion.site/OVERVIEW-30d2fd024ec38062a2ecd1b92c79eaa5?source=copy_link]
-
 > Chess.com Analytics est un projet data industrialisé combinant ingestion automatisée, transformation Python, validation CI/CD et exploitation BI, conçu comme un futur Data Product évolutif vers une architecture cloud.
+
+[https://best-secure-14c.notion.site/OVERVIEW-30d2fd024ec38062a2ecd1b92c79eaa5?source=copy_link]
 
 Pipeline Python (PGN parsing) → CSV → Power BI
 
 Développement en cours : PostgreSQL + Streamlit
 
 ### 🌱 ESG / CSRD Analytics
+texte intro esg
+[https://best-secure-14c.notion.site/Documentation-Client-2b72fd024ec3804884bdcce3c8edf04e?source=copy_link]
+
 Dataset structuré → nettoyage → scoring → dashboard décisionnel.
 
 ---
