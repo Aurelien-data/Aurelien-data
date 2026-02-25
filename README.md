@@ -32,6 +32,8 @@ Objectif : transformer la donnée brute en outil de décision fiable.
 
 20 ans d’expérience terrain en retail et réseaux commerciaux.
 
+Cette expérience nourrit aujourd'hui ma conception des modèles décisionnels.
+
 - Pilotage d’activité
 - Gestion d’indicateurs de performance
 - Analyse de marges & rentabilité
@@ -145,15 +147,18 @@ Snapshots automatisés via Python + intégration Power BI.
 
 [https://best-secure-14c.notion.site/OVERVIEW-30d2fd024ec38062a2ecd1b92c79eaa5?source=copy_link]
 
-Pipeline Python (PGN parsing) → CSV → Power BI
+Architecture :
+Ingestion automatisée → Transformation Python → Validation CI/CD → Exploitation BI
 
 Développement en cours : PostgreSQL + Streamlit
 
 ### 🌱 ESG / CSRD Analytics
-texte intro esg
-[https://best-secure-14c.notion.site/Documentation-Client-2b72fd024ec3804884bdcce3c8edf04e?source=copy_link]
 
-Dataset structuré → nettoyage → scoring → dashboard décisionnel.
+Projet orienté conformité réglementaire (CSRD) et scoring ESG.
+
+Approche : nettoyage multi-sources, gestion données bruitées, structuration pour reporting décisionnel.
+
+[https://best-secure-14c.notion.site/Documentation-Client-2b72fd024ec3804884bdcce3c8edf04e?source=copy_link]
 
 ---
 
@@ -175,9 +180,9 @@ Dataiku DSS
 ---
 
 ## 📚 Documentation & Research
-- Microsoft Fabric (résume des modules d'apprentissage)
+- Microsoft Fabric (résumé des modules d'apprentissage)
 - Cheat Sheet PySpark | Lakehouse | Data Warehouse
-- Règels d'or Power BI | Modélisation | Power Query
+- Règles d'or Power BI | Modélisation | Power Query
 - Formules DAX
 
 ---
@@ -190,7 +195,7 @@ Dataiku DSS
 
 ✉️ Email : [apbi.consultant@gmail.com]
 
-Ouvert aux opportunités CDI Data Analyst | Data Engineer BI
+Ouvert aux opportunités CDI Data Analyst | BI | Data Paltform
 
 Disponible pour missions de conseil via APBI Consulting
 
