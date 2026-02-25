@@ -79,7 +79,9 @@ Cette expérience nourrit aujourd'hui ma conception des modèles décisionnels.
 
 Résultat :
 - 3 rapports stratégiques Power BI déployés
--   xxx
+  - Suivi Chiffre d'Affaires
+  - Suivi Charges Externes & Soldes Intermédiaires de Gestion
+  - Suivi de la Production
 - Pilotage financier fiabilisé
 - Indicateurs cohérents avec SAGE 100
 - Réduction des erreurs liées aux retraitements manuels
