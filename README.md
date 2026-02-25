@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Aurélien Prat
 ## Business Intelligence Consultant | Data & Cloud
 
-Conception d'architecture data **fiables** et **évolutives* pour le pilotage financier et opérationnel.
+Conception d'architecture data **fiables** et **évolutives** pour le pilotage financier et opérationnel.
 
 Spécialisation : Power BI | Dataiku DSS | Modélisation décisionnelle | Automatisation ETL | Architecture Data
 
