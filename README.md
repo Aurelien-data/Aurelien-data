@@ -13,6 +13,8 @@ Spécialisation : Power BI | Dataiku DSS | Modélisation décisionnelle | Automa
 ![MYSQL](https://img.shields.io/badge/MYSQL-blue?style=flat&logo=mysql&logoColor=white&logoWidth=32)
 ![Dataiku](https://img.shields.io/badge/Dataiku-DSS-orange?style=flat&logo=dataiku&logoColor=white&logoWidth=32)
 
+✉️ Email : [apbi.consultant@gmail.com]
+
 ---
 
 ## 🙋‍♂️ A propos de moi
