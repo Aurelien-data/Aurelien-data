@@ -129,14 +129,6 @@ Approche :
 
 ## 📊 Projets Data
 
-### 🏢 Pilotage financier & DSO
-Architecture complète du suivi CA, CE, SIG, DSO avec **règles métiers sécurisées**.
-
-
-### 📈 Historisation Avancement Production
-Snapshots automatisés via Python + intégration Power BI.
-
-
 ### ♟ Chess Analytics
 
 > Chess.com Analytics est un projet data industrialisé combinant ingestion automatisée, transformation Python, validation CI/CD et exploitation BI, conçu comme un futur Data Product évolutif vers une architecture cloud.
