@@ -102,7 +102,7 @@ Approche :
 - Modélisation en étoile robuste
 - Gouvernance des règles métier
 - Automatisation des calculs complexes
-- Préparation à une architecture Data Warehouse Azure
+- Préparation à une architecture Data Warehouse Azure / Fabric
 
 --- 
 
