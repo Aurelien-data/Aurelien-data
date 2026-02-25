@@ -39,13 +39,13 @@ Soft skills
 
 20 ans d’expérience terrain en retail et réseaux commerciaux.
 
-Cette expérience nourrit aujourd'hui ma conception des modèles décisionnels.
-
 - Pilotage d’activité
 - Gestion d’indicateurs de performance
 - Analyse de marges & rentabilité
 - Management d’équipes
 - Relation direction / terrain
+
+Cette expérience nourrit aujourd'hui ma conception des modèles décisionnels.
 
 ---
 
