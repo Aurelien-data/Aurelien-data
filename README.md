@@ -155,7 +155,7 @@ Développement en cours : PostgreSQL + Streamlit
 
 Approche : nettoyage multi-sources, gestion données bruitées, structuration pour reporting décisionnel.
 
-[Vori le projet ESCG CSRD](https://best-secure-14c.notion.site/Documentation-Client-2b72fd024ec3804884bdcce3c8edf04e?source=copy_link)
+[Vori le projet ESG CSRD](https://best-secure-14c.notion.site/Documentation-Client-2b72fd024ec3804884bdcce3c8edf04e?source=copy_link)
 
 ---
 
