@@ -108,10 +108,10 @@ Approche :
 
 ### 💻 Langages
 - `DAX`
-- Power Query ('M')
-- 'SQL'
-- 'Python'
-- 'Spark' (initiation via Fabric)
+- `M`
+- `SQL`
+- `Python`
+- `Spark` (initiation via Fabric)
 
 ### ☁ Cloud & Data Platform
 - Microsoft Azure (concept DW)
