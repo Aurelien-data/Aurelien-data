@@ -154,7 +154,7 @@ Développement en cours : PostgreSQL + Streamlit
 
 ### 🌱 ESG / CSRD Analytics
 
-Projet orienté conformité réglementaire (CSRD) et scoring ESG.
+> Projet orienté conformité réglementaire (CSRD) et scoring ESG.
 
 Approche : nettoyage multi-sources, gestion données bruitées, structuration pour reporting décisionnel.
 
