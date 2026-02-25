@@ -15,7 +15,7 @@ Spécialisation : Power BI | Dataiku DSS | Modélisation décisionnelle | Automa
 
 ---
 
-## A propos de moi
+## 🙋‍♂️ A propos de moi
 
 Consultant BI orienté data et architecture, j'accompagne les PME et organisations dans la **structuration** de leur **écosystème data** :
 
