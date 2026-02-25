@@ -141,7 +141,7 @@ Approche :
 
 > Chess.com Analytics est un projet data industrialisé combinant ingestion automatisée, transformation Python, validation CI/CD et exploitation BI, conçu comme un futur Data Product évolutif vers une architecture cloud.
 
-[Voir le projet](https://best-secure-14c.notion.site/OVERVIEW-30d2fd024ec38062a2ecd1b92c79eaa5?source=copy_link)
+[Voir le projet Chess.com Analytics](https://best-secure-14c.notion.site/OVERVIEW-30d2fd024ec38062a2ecd1b92c79eaa5?source=copy_link)
 
 Architecture :
 Ingestion automatisée → Transformation Python → Validation CI/CD → Exploitation BI
@@ -155,7 +155,7 @@ Développement en cours : PostgreSQL + Streamlit
 
 Approche : nettoyage multi-sources, gestion données bruitées, structuration pour reporting décisionnel.
 
-[Vori le projet](https://best-secure-14c.notion.site/Documentation-Client-2b72fd024ec3804884bdcce3c8edf04e?source=copy_link)
+[Vori le projet ESCG CSRD](https://best-secure-14c.notion.site/Documentation-Client-2b72fd024ec3804884bdcce3c8edf04e?source=copy_link)
 
 ---
 
