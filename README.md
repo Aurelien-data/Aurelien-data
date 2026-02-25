@@ -132,12 +132,10 @@ Approche :
 ### 🏢 Pilotage financier & DSO
 Architecture complète du suivi CA, CE, SIG, DSO avec **règles métiers sécurisées**.
 
----
 
 ### 📈 Historisation Avancement Production
 Snapshots automatisés via Python + intégration Power BI.
 
----
 
 ### ♟ Chess Analytics
 
@@ -150,7 +148,6 @@ Ingestion automatisée → Transformation Python → Validation CI/CD → Exploi
 
 Développement en cours : PostgreSQL + Streamlit
 
----
 
 ### 🌱 ESG / CSRD Analytics
 
