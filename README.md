@@ -100,9 +100,7 @@ Approche :
 
 ## 🧠 Vision architecture Data
 
-<p align="center">
-  <img src="Architecture_data_Cible.png" width="700"/>
-</p>
+<img src="Architecture_Data_Cible.png" width="450"/
 
 Sources ERP / Comptabilité / Production  
 ↓  
