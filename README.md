@@ -141,7 +141,7 @@ Approche :
 
 > Chess.com Analytics est un projet data industrialisé combinant ingestion automatisée, transformation Python, validation CI/CD et exploitation BI, conçu comme un futur Data Product évolutif vers une architecture cloud.
 
-[https://best-secure-14c.notion.site/OVERVIEW-30d2fd024ec38062a2ecd1b92c79eaa5?source=copy_link]
+[Voir le projet](https://best-secure-14c.notion.site/OVERVIEW-30d2fd024ec38062a2ecd1b92c79eaa5?source=copy_link)
 
 Architecture :
 Ingestion automatisée → Transformation Python → Validation CI/CD → Exploitation BI
@@ -155,7 +155,7 @@ Développement en cours : PostgreSQL + Streamlit
 
 Approche : nettoyage multi-sources, gestion données bruitées, structuration pour reporting décisionnel.
 
-[https://best-secure-14c.notion.site/Documentation-Client-2b72fd024ec3804884bdcce3c8edf04e?source=copy_link]
+[Vori le projet](https://best-secure-14c.notion.site/Documentation-Client-2b72fd024ec3804884bdcce3c8edf04e?source=copy_link)
 
 ---
 
@@ -182,6 +182,7 @@ Dataiku DSS
 [Voir la cheat sheet](https://best-secure-14c.notion.site/PySpark-R-f-rence-Compl-te-des-Fonctions-Syntaxes-3102fd024ec38060be61d04eb54ee7e3?source=copy_link)
 - Cheat Sheet Lakehouse | Data Warehouse
 - Règles d'or Power BI | Modélisation | Power Query
+[Voir la cheat sheet](https://best-secure-14c.notion.site/R-gles-d-or-Power-BI-Power-Query-Mod-lisation-a4288d85fa8045e796e5df3291614a53?source=copy_link)
 - Formules DAX
 
 ---
