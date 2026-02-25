@@ -26,6 +26,10 @@ Consultant BI orienté data et architecture, j'accompagne les PME et organisatio
 
 Objectif : transformer la donnée brute en outil de décision fiable.
 
+Soft skills 
+- x
+- y
+
 ---
 
 ## 🔄 Double compétence : Business & Data
