@@ -123,7 +123,7 @@ Snapshots automatisés via Python + intégration Power BI.
 
 ### ♟ Chess Analytics
 
-[page notion]
+[(https://www.notion.so/OVERVIEW-30d2fd024ec38062a2ecd1b92c79eaa5?source=copy_link)]
 
 > Chess.com Analytics est un projet data industrialisé combinant ingestion automatisée, transformation Python, validation CI/CD et exploitation BI, conçu comme un futur Data Product évolutif vers une architecture cloud.
 
