@@ -54,7 +54,7 @@ Cette expérience nourrit aujourd'hui ma conception des modèles décisionnels.
 - 🏗 Structuration complète d'un système décisionnel
 - 📊 Réduction des retraitements Excel manuels
 - 🔍 Fiabilisation des règles de calcul métiers
-- ⏱ Gain de temps sur le reporting fianncier
+- ⏱ Gain de temps sur le reporting financier
 - ☁ Préparation à l'industrialisation Cloud
 
 ---
