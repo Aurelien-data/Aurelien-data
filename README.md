@@ -10,11 +10,10 @@ Spécialisation : Power BI | Dataiku DSS | Modélisation décisionnelle | Automa
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi&logoColor=black&logoWidth=32)
 ![Python](https://img.shields.io/badge/Python-green?style=flat&logo=python&logoColor=white&logoWidth=32)
 ![SQL Server](https://custom-icon-badges.demolab.com/badge/SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MYSQL-blue?style=flat&logo=mysql&logoColor=white&logoWidth=32)
 ![Dataiku](https://img.shields.io/badge/Dataiku-DSS-orange?style=flat&logo=dataiku&logoColor=white&logoWidth=32)
 
 
-
+🔗 LinkedIn : [www.linkedin.com/in/aurelien-prat]
 
 ✉️ Email : [apbi.consultant@gmail.com]
 
