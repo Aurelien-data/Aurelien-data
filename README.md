@@ -17,7 +17,7 @@ Spécialisation : Power BI | Dataiku DSS | Modélisation décisionnelle | Automa
 
 ✉️ Email : [apbi.consultant@gmail.com]
 
-🌐 Site web : [https://aurelien-data.github.io/Site-web/]
+🌐 Site web : [https://aurelien-data.github.io/]
 
 ---
 
