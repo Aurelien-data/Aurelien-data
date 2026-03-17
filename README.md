@@ -126,8 +126,8 @@ Approche :
 - `Spark` (initiation via Fabric)
 
 ### ☁ Cloud & Data Platform
-- Microsoft Azure (concept DW)
-- Microsoft Fabric (Lakehouse | Data Warehouse)
+- Microsoft Fabric
+- Microsoft Azure
 - Modélisation OLAP
 - Architecture décisionnelle
 
