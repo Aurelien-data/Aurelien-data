@@ -12,12 +12,11 @@ Spécialisation : Power BI | Dataiku DSS | Modélisation décisionnelle | Analys
 ![SQL Server](https://custom-icon-badges.demolab.com/badge/SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
 ![Dataiku](https://img.shields.io/badge/Dataiku-DSS-orange?style=flat&logo=dataiku&logoColor=white&logoWidth=32)
 
+🌐 Site web : [https://aurelien-data.github.io/]
 
 🔗 LinkedIn : [www.linkedin.com/in/aurelien-prat]
 
 ✉️ Email : [apbi.consultant@gmail.com]
-
-🌐 Site web : [https://aurelien-data.github.io/]
 
 ---
 
