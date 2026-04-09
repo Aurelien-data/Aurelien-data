@@ -72,10 +72,10 @@ Cette expérience nourrit aujourd'hui ma conception des modèles décisionnels.
 <img src="star_schema.png" width="450"/>
 
 - Gestion avancée du lettrage comptable et DSO
-<img src="dso.png" width="450"/>
+<img src="Screen_CA_8-edited.png" width="450"/>
 
 - Implémentation de logiques YTD / N-1 / N-2 dynamiques
-<img src="CA.png" width="450"/>
+<img src="Screen_CA_1-edited.png" width="450"/>
 
 - Sécurisation des règles CE / SIG
 - Mise en place d'une architecture prête pour Azure / Fabric
