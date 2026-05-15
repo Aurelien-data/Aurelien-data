@@ -23,7 +23,7 @@ Spécialisation : Power BI | Dataiku DSS | Modélisation décisionnelle | Analys
 
 ## 🙋‍♂️ A propos de moi
 
-Data Analyst et Consultant BI, j'accompagne les PME et organisations dans la **structuration** de leur **écosystème data** :
+Business et Data Analyst, j'accompagne les PME et organisations dans la **structuration** de leur **écosystème data** :
 
 - Centralisation des sources (ERP, Comptabilité, Production)
 - Modélisation en étoile robuste
