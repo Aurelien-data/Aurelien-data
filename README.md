@@ -1,5 +1,5 @@
 # 👋 Bonjour, je suis Aurélien Prat
-## Data Analyst | Consultant Business Intelligence 
+## Business & Data Analyst 
 
 Conception d'architecture data **fiables**, **gouvernées** et **évolutives** pour le pilotage financier et opérationnel.
 
