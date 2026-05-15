@@ -1,5 +1,5 @@
 # 👋 Bonjour, je suis Aurélien Prat
-## Business & Data Analyst 
+## Business & Data Analyst spécialisé dans le pilotage financier et opérationnel.
 
 Conception d'architecture data **fiables**, **gouvernées** et **évolutives** pour le pilotage financier et opérationnel.
 
