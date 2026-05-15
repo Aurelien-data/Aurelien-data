@@ -3,7 +3,11 @@
 
 Conception d'architecture data **fiables**, **gouvernées** et **évolutives** pour le pilotage financier et opérationnel.
 
-Du modèle métier à la plateforme data.
+Vos données racontent une histoire.
+Je vous aide à la lire.
+
+Excel, ERP, outils métiers — tout est là, mais rien ne se connecte.
+C'est exactement là que j'interviens.
 
 Spécialisation : Power BI | Dataiku DSS | Modélisation décisionnelle | Analyse de données | Automatisation ETL / ELT | Architecture Data
 
