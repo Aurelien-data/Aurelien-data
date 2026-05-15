@@ -5,9 +5,6 @@ Conception d'architecture data **fiables**, **gouvernées** et **évolutives** p
 
 Vos données racontent une histoire. Je vous aide à la lire.
 
-Excel, ERP, outils métiers — tout est là, mais rien ne se connecte.
-C'est exactement là que j'interviens.
-
 Spécialisation : Power BI | Dataiku DSS | Modélisation décisionnelle | Analyse de données | Automatisation ETL / ELT
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi&logoColor=black&logoWidth=32)
