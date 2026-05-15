@@ -5,7 +5,7 @@ Conception d'architecture data **fiables**, **gouvernées** et **évolutives** p
 
 Du modèle métier à la plateforme data.
 
-Spécialisation : Excel | Power BI | Dataiku DSS | Modélisation décisionnelle | Analyse de données | Automatisation ETL / ELT | Architecture Data
+Spécialisation : Power BI | Dataiku DSS | Modélisation décisionnelle | Analyse de données | Automatisation ETL / ELT | Architecture Data
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi&logoColor=black&logoWidth=32)
