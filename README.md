@@ -3,7 +3,7 @@
 
 > *"Je lis les données comme un analyst, je les interprète comme un homme de terrain."*
 
-10 ans en développement commercial et trade marketing chez EssilorLuxottica. Reconverti en Business & Data Analyst. Je construis les outils de pilotage que les directions commerciales et financières des PME attendent vraiment.
+10 ans en développement commercial et trade marketing chez EssilorLuxottica. Aujourd'hui Business & Data Analyst, je conçois des outils de pilotage pensés pour les directions commerciales et financières des PME/ETI.
 
 **Spécialisation :** Power BI · DAX · Power Query · SQL Server · Python · Dataiku DSS · Microsoft Fabric
 
