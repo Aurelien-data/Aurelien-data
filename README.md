@@ -15,7 +15,9 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 🌐 Site web : [aurelien-data.github.io/Page_Pro](https://aurelien-data.github.io/Page_Pro)
+
 🔗 LinkedIn : [linkedin.com/in/aurelien-prat](https://www.linkedin.com/in/aurelien-prat)
+
 ✉️ Email : [apbi.consultant@gmail.com](mailto:apbi.consultant@gmail.com)
 
 ---
