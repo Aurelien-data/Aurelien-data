@@ -1,205 +1,226 @@
 # 👋 Bonjour, je suis Aurélien Prat
-## Business & Data Analyst spécialisé dans le pilotage financier et opérationnel.
+## Business & Data Analyst — je traduis vos données en décisions.
 
-Conception d'architecture data **fiables**, **gouvernées** et **évolutives** pour le pilotage financier et opérationnel.
+> *"Je lis les données comme un analyst, je les interprète comme un homme de terrain."*
 
-Vos données racontent une histoire. Je vous aide à la lire.
+9 ans en développement commercial et trade marketing chez EssilorLuxottica. Reconverti en Business & Data Analyst. Je construis les outils de pilotage que les directions commerciales et financières des PME attendent vraiment.
 
-Spécialisation : Power BI | Dataiku DSS | Modélisation décisionnelle | Analyse de données | Automatisation ETL / ELT
+**Spécialisation :** Power BI · DAX · Power Query · SQL Server · Python · Dataiku DSS · Microsoft Fabric
 
-![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi&logoColor=black&logoWidth=32)
-![Python](https://img.shields.io/badge/Python-green?style=flat&logo=python&logoColor=white&logoWidth=32)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-green?style=flat&logo=python&logoColor=white)
 ![SQL Server](https://custom-icon-badges.demolab.com/badge/SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
-![Dataiku](https://img.shields.io/badge/Dataiku-DSS-orange?style=flat&logo=dataiku&logoColor=white&logoWidth=32)
+![Dataiku](https://img.shields.io/badge/Dataiku-DSS-orange?style=flat&logo=dataiku&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6B3FA0?style=flat&logo=microsoft&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-🌐 Site web : [https://aurelien-data.github.io/]
-
-🔗 LinkedIn : [www.linkedin.com/in/aurelien-prat]
-
-✉️ Email : [apbi.consultant@gmail.com]
+🌐 Site web : [aurelien-data.github.io/Page_Pro](https://aurelien-data.github.io/Page_Pro)
+🔗 LinkedIn : [linkedin.com/in/aurelien-prat](https://www.linkedin.com/in/aurelien-prat)
+✉️ Email : [apbi.consultant@gmail.com](mailto:apbi.consultant@gmail.com)
 
 ---
 
-## 🙋‍♂️ A propos de moi
+## 🙋‍♂️ À propos de moi
 
-Business et Data Analyst, j'accompagne les PME et organisations dans la **structuration** de leur **écosystème data** :
+Business & Data Analyst, j'accompagne les PME dans la **structuration de leur écosystème data** — du cadrage métier à la mise en production de rapports Power BI opérationnels.
 
-- Centralisation des sources (ERP, Comptabilité, Production)
-- Modélisation en étoile robuste
-- Sécurisation des règles financières (DSO, SIG, YTD, N vs N-1)
-- Préparation à la migration vers des architectures Cloud modernes (Azure / Fabric)
+Ce qui me différencie : avant d'ouvrir Power BI, je comprends pourquoi un KPI compte, comment un DAF lit un SIG, et ce qu'un responsable commercial veut voir au quotidien. Mon background terrain nourrit directement ma conception des modèles décisionnels.
 
-Objectif : transformer la donnée brute en outil de décision fiable.
+**Mon approche en 3 étapes :**
+- 🧠 **Comprendre le métier** — cadrage, formalisation des besoins, audit de l'existant
+- ⚙️ **Structurer la donnée** — modélisation en étoile, ETL multi-sources, automatisation
+- 📊 **Livrer la décision** — rapports Power BI calibrés sur les vrais utilisateurs, formation & transfert
 
-Soft skills :
-- Autonome
-- Autodidacte
-- Rigoureux
-- Curieux
-- Sens du détail
+**Soft skills :** Autonome · Autodidacte · Rigoureux · Curieux · Sens du détail · Orienté résultat
 
 ---
 
 ## 🔄 Double compétence : Business & Data
 
-20 ans d’expérience terrain en retail et réseaux commerciaux.
+**9 ans chez EssilorLuxottica** — groupe international, leader mondial de l'optique :
+- Animateur Réseau Grands Comptes : création de Business Plans, animation d'enseignes stratégiques
+- Trade Marketing Manager : pilotage de plans d'actions nationaux, budget OPEX/CAPEX 4 M€
+- Attaché Commercial BtoB : développement portefeuille clients, +1,7% de progression CA
 
-- Pilotage d’activité
-- Gestion d’indicateurs de performance
-- Analyse de marges & rentabilité
-- Management d’équipes
-- Relation direction / terrain
-
-Cette expérience nourrit aujourd'hui ma conception des modèles décisionnels.
+Cette expérience terrain nourrit aujourd'hui ma façon de concevoir les modèles décisionnels — je parle la langue des directions commerciales et financières avant de modéliser quoi que ce soit.
 
 ---
 
 ## 🎯 Ce que j'apporte à une organisation
 
-- 🏗 Structuration complète d'un système décisionnel
+- 🏗 Structuration complète d'un système décisionnel orienté métier
 - 📊 Réduction des retraitements Excel manuels
-- 🔍 Fiabilisation des règles de calcul métiers
-- ⏱ Gain de temps sur le reporting financier
-- ☁ Préparation à l'industrialisation Cloud
+- 🔍 Fiabilisation des règles de calcul métiers (DSO, SIG, YTD, N vs N-1)
+- ⏱ Gain de temps significatif sur le reporting financier et commercial
+- 💼 Lecture naturelle des enjeux business — pas seulement technique
+- ☁️ Préparation à l'industrialisation Cloud (Azure / Microsoft Fabric)
 
 ---
 
 ## 🏭 Réalisations marquantes
 
-### Modernisation BI - PME industrielle
+### Modernisation BI — Ervent Aquitaine (PME industrielle, secteur CVC)
 
-- Refonte complète du modèle Power BI
-<img src="star_schema.png" width="450"/>
+Mission Data Analyst BI complète sur 6 mois : structuration de l'ensemble de l'environnement data d'une PME industrielle de +50 employés.
 
-- Gestion avancée du lettrage comptable et DSO
-<img src="Screen_CA_8-edited.png" width="450"/>
+**3 rapports stratégiques Power BI déployés :**
 
-- Implémentation de logiques YTD / N-1 / N-2 dynamiques
-<img src="Screen_CA_1-edited.png" width="450"/>
+**📈 Rapport CA & Encours clients — Pilotage commercial**
+- CA mensuel et YTD sur 3 exercices fiscaux (N/N-1/N-2) — consolidation Sage 100 + Batigest via ODBC
+- Mix d'activité Fourni vs Fourni-Posé par bureau et par représentant
+- Suivi encours clients : statut réglé/échu/en cours, jours de retard, DSO par client
 
-- Sécurisation des règles CE / SIG
-- Mise en place d'une architecture prête pour Azure / Fabric
+**📉 Rapport Charges Externes & SIG — Fiabilisation comptable**
+- Concordance au centime près avec le grand livre Sage 100
+- SIG dynamique multi-années fiscales (EBE, Résultat Net, Marge brute)
+- Ratios CE/CA, pilotage YTD vs année complète
 
-Résultat :
-- 3 rapports stratégiques Power BI déployés
-  - Suivi Chiffre d'Affaires
-  - Suivi Charges Externes & Soldes Intermédiaires de Gestion
-  - Suivi de la Production
-- Pilotage financier fiabilisé
-- Indicateurs cohérents avec SAGE 100
-- Réduction des erreurs liées aux retraitements manuels
+**🏭 Rapport Pilotage Production — Suivi des lots**
+- Suivi quotidien des lots (Gaine, Plenum) avec taux d'avancement réel
+- Alertes visuelles sur retards, historisation par snapshots journaliers
+- Outil adopté immédiatement par les équipes terrain
+
+**Résultats :**
+- ✅ 15h de retraitement manuel économisées par mois
+- ✅ Pilotage financier fiabilisé — référence DAF pour les clôtures et audits
+- ✅ Adoption immédiate direction & terrain
 
 ---
 
-## 📊 Spécialisation – Pilotage Financier sous Power BI
+## 📊 Projets personnels
 
-Conception et sécurisation d’architectures décisionnelles financières pour PME :
+### ♟️ Chess.com Analytics — Data Product
 
-- Suivi Chiffre d’Affaires (N / N-1 / YTD dynamiques)
-- Charges Externes & SIG
-- Analyse DSO & délais clients
-- Sécurisation des règles comptables (lettrage, dates de règlement reconstituées)
-- Concordance avec Sage 100
+Pipeline analytique industrialisé : de l'extraction des parties Chess.com (API + PGN) à la production de datasets structurés exploitables dans Power BI — conçu comme un futur Data Product évolutif vers une architecture cloud.
 
-Approche :
-- Modélisation en étoile robuste
-- Gouvernance des règles métier
-- Automatisation des calculs complexes
-- Préparation à une architecture Data Warehouse Azure / Fabric
+**Architecture :** Ingestion automatisée → Transformation Python → Validation CI/CD → Exploitation Power BI
 
---- 
+- Ingestion via API REST Chess.com, parsing PGN, enrichissement ECO (classification des ouvertures)
+- KPIs : Win Rate, ELO progression, performance par cadence et couleur, ouvertures les plus performantes
+- CI/CD GitHub Actions, roadmap PostgreSQL + Streamlit multi-utilisateurs + Azure
 
-## 🧠 Vision architecture Data
+![Python](https://img.shields.io/badge/Python-green?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-<img src="Architecture_Data_Cible.png" width="450"/>
+🔗 [Voir la documentation du projet](https://best-secure-14c.notion.site/OVERVIEW-30d2fd024ec38062a2ecd1b92c79eaa5?source=copy_link)
+
+---
+
+### 🚚 Pilotage Qualité de Service — Transport & Logistique
+
+Prototype de rapport COPIL sur dataset fictif (32 000 expéditions, 15 mois) — démonstration d'une approche BI complète dans le secteur transport.
+
+- Modèle en étoile : 12 tables dim + 1 table de faits FACT_expeditions
+- 4 pages : Overview COPIL (OTD, Taux Scan, Score Qualité), Colis en Erreur, Traçabilité réseau, Causes racines
+- 40+ mesures DAX : comparaisons temporelles, RANKX agences, flags dynamiques, titres contextuels
+- Documentation complète client + technique — livrable clé en main
+
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat&logo=microsoft&logoColor=white)
+
+---
+
+### 🌱 ESG / CSRD Analytics — Scoring & Reporting
+
+Pipeline Dataiku orienté conformité réglementaire CSRD et scoring ESG multi-critères.
+
+- Nettoyage & fiabilisation des données ESG brutes (flags qualité, détection d'anomalies)
+- Scoring Environnemental, Social et Gouvernance normalisé /100
+- Segmentation automatique K-Means (High / Medium / Low ESG)
+- Modèle prédictif ML (régression logistique) déployé en pipeline
+- Dashboard Power BI : radar E/S/G, cartes risques, double matérialité
+
+![Dataiku](https://img.shields.io/badge/Dataiku-DSS-orange?style=flat&logo=dataiku&logoColor=white)
+![Python](https://img.shields.io/badge/Python-green?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi&logoColor=black)
+
+🔗 [Voir la documentation du projet](https://best-secure-14c.notion.site/Documentation-Client-2b72fd024ec3804884bdcce3c8edf04e?source=copy_link)
+
+---
+
+### 🍷 Analyse marché du vin aux USA — Conseil en pricing
+
+Étude de marché complète pour le Domaine des Croix souhaitant exporter sur le marché américain.
+
+- EDA sur 130 000 références (44 pays, 680 cépages) — corrélations notes/prix, NLP sur descriptifs
+- Approche en entonnoir : marché global → Pinot Noir → millésime 2016 → concurrence Burgundy US
+- Dashboard Power BI 7 pages + recommandation de prix argumentée pour client non-technique
+
+![Python](https://img.shields.io/badge/Python-green?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi&logoColor=black)
 
 ---
 
 ## 🛠 Stack technique
 
-### 💻 Langages
-- `DAX`
-- `M`
-- `SQL`
-- `Python`
-- `Spark` (initiation via Fabric)
+### 📊 Visualisation & BI
+| Outil | Niveau |
+|---|---|
+| Power BI (Desktop & Service) | ████████░░ Avancé |
+| Power Query (M) | ████████░░ Avancé |
+| DAX | ██████░░░░ Intermédiaire-Avancé |
+| Dataiku DSS | ██████░░░░ Intermédiaire |
 
-### ☁ Cloud & Data Platform
-- Microsoft Fabric
-- Microsoft Azure
-- Modélisation OLAP
-- Architecture décisionnelle
+### 💻 Langages & Data
+| Outil | Niveau |
+|---|---|
+| SQL / SQL Server | ████████░░ Avancé |
+| Python (Pandas, NumPy, Scikit-Learn) | ██████░░░░ Intermédiaire |
+| Git & GitHub | ██████░░░░ Intermédiaire |
 
-### 📊 Visualisation
-- Power BI (modélisation avancée)
-- Python (Matplotlib, Seaborn, Plotly)
-- Dataiku DSS
-- Data storytelling orienté décision
-
---- 
-
-## 📊 Projets Data
-
-### ♟ Chess Analytics
-
-> Chess.com Analytics est un projet data industrialisé combinant ingestion automatisée, transformation Python, validation CI/CD et exploitation BI, conçu comme un futur Data Product évolutif vers une architecture cloud.
-
-[Voir le projet Chess.com Analytics](https://best-secure-14c.notion.site/OVERVIEW-30d2fd024ec38062a2ecd1b92c79eaa5?source=copy_link)
-
-Architecture :
-Ingestion automatisée → Transformation Python → Validation CI/CD → Exploitation BI
-
-Développement en cours : PostgreSQL + Streamlit
-
-
-### 🌱 ESG / CSRD Analytics
-
-> Projet orienté conformité réglementaire (CSRD) et scoring ESG.
-
-Approche : nettoyage multi-sources, gestion données bruitées, structuration pour reporting décisionnel.
-
-[Vori le projet ESG CSRD](https://best-secure-14c.notion.site/Documentation-Client-2b72fd024ec3804884bdcce3c8edf04e?source=copy_link)
+### ☁️ Cloud & Data Engineering
+| Outil | Niveau |
+|---|---|
+| Microsoft Fabric | ████░░░░░░ En progression |
+| Azure (concepts & pratique) | ████░░░░░░ En progression |
+| Architecture Medallion (Bronze/Silver/Gold) | Théorique — en cours de mise en pratique |
 
 ---
 
 ## 🏅 Certifications & Formation
 
-Certification professionnelle Data Analyst, RNCP niveau 6 code NSF 326
-
 ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-RNCP%20NSF%20326-blue?style=flat)
+**Titre Data Analyst — RNCP Niveau 6 (Bac+3/4)**
+Wild Code School — Bordeaux · 2024-2025
 
+![Dataiku](https://img.shields.io/badge/Dataiku-Core%20Designer-orange?style=flat&logo=dataiku&logoColor=white)
+**Dataiku DSS — Core Designer**
 
-Microsoft Fabric : Auto-formation (parcours en cours sur Microsoft Learn)
+![CNIL](https://img.shields.io/badge/CNIL-RGPD-003189?style=flat)
+**Certification CNIL / RGPD**
 
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6B3FA0?style=flat&logo=microsoft&logoColor=white)
-
-Dataiku DSS
-
-![Dataiku](https://img.shields.io/badge/Dataiku-DSS-orange?style=flat&logo=dataiku&logoColor=white&logoWidth=32)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-En%20cours-6B3FA0?style=flat&logo=microsoft&logoColor=white)
+**Microsoft Fabric** — Auto-formation active (15 modules Microsoft Learn validés)
 
 ---
 
-## 📚 Documentation & Research
-- Microsoft Fabric (résumé des modules d'apprentissage)
-- Cheat Sheet PySpark
-[Voir la cheat sheet](https://best-secure-14c.notion.site/PySpark-R-f-rence-Compl-te-des-Fonctions-Syntaxes-3102fd024ec38060be61d04eb54ee7e3?source=copy_link)
-- Cheat Sheet Lakehouse | Data Warehouse
-- Règles d'or Power BI | Modélisation | Power Query
-[Voir la cheat sheet](https://best-secure-14c.notion.site/R-gles-d-or-Power-BI-Power-Query-Mod-lisation-a4288d85fa8045e796e5df3291614a53?source=copy_link)
-- Formules DAX
+## 📚 Documentation & Resources
+
+Quelques ressources produites en parallèle de mes projets :
+
+- 📘 [Cheat Sheet PySpark — Référence complète](https://best-secure-14c.notion.site/PySpark-R-f-rence-Compl-te-des-Fonctions-Syntaxes-3102fd024ec38060be61d04eb54ee7e3?source=copy_link)
+- 📗 [Règles d'or Power BI · Power Query · Modélisation](https://best-secure-14c.notion.site/R-gles-d-or-Power-BI-Power-Query-Mod-lisation-a4288d85fa8045e796e5df3291614a53?source=copy_link)
+- 📙 Cheat Sheet Lakehouse | Data Warehouse *(à venir)*
+- 📕 Formules DAX — Référence personnelle *(à venir)*
+- 📓 Microsoft Fabric — Résumé des modules d'apprentissage *(à venir)*
 
 ---
 
 ## 📬 Contact
 
-📍 Bordeaux
+📍 **Bordeaux — Nouvelle-Aquitaine**
 
-🔗 LinkedIn : [www.linkedin.com/in/aurelien-prat]
+🌐 **Site pro :** [aurelien-data.github.io/Page_Pro](https://aurelien-data.github.io/Page_Pro)
 
-✉️ Email : [apbi.consultant@gmail.com]
+🔗 **LinkedIn :** [linkedin.com/in/aurelien-prat](https://www.linkedin.com/in/aurelien-prat)
 
-Ouvert aux opportunités CDI Data Analyst | BI | Data Paltform
+✉️ **Email :** [apbi.consultant@gmail.com](mailto:apbi.consultant@gmail.com)
 
-Disponible pour missions de conseil via APBI Consulting
+---
 
+**Ouvert aux opportunités :**
+- 💼 CDI / CDD — Business Analyst · Data Analyst · Chargé de reporting BI
+- 🚀 Missions freelance via APBI Consulting
+
+> *Disponible pour un échange — n'hésitez pas à me contacter.*
