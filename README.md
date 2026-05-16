@@ -109,6 +109,8 @@ Pipeline analytique industrialisé : de l'extraction des parties Chess.com (API 
 
 🔗 [Voir la documentation du projet](https://best-secure-14c.notion.site/OVERVIEW-30d2fd024ec38062a2ecd1b92c79eaa5?source=copy_link)
 
+![Chesscom](https://raw.githubusercontent.com/Aurelien-data/Aurelien-data/main/Chesscom_Analytics.png)
+
 ---
 
 ### 🚚 Pilotage Qualité de Service — Transport & Logistique
