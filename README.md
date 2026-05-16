@@ -77,6 +77,7 @@ Mission Data Analyst BI complète sur 6 mois : structuration de l'ensemble de l'
 - Concordance au centime près avec le grand livre Sage 100
 - SIG dynamique multi-années fiscales (EBE, Résultat Net, Marge brute)
 - Ratios CE/CA, pilotage YTD vs année complète
+  ![Dashboard CA détail](https://raw.githubusercontent.com/Aurelien-data/Aurelien-data/main/Screen_CA_8-edited.png)
 
 **🏭 Rapport Pilotage Production — Suivi des lots**
 - Suivi quotidien des lots (Gaine, Plenum) avec taux d'avancement réel
