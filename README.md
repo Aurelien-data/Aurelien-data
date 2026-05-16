@@ -125,6 +125,8 @@ Prototype de rapport COPIL sur dataset fictif (32 000 expéditions, 15 mois) —
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat&logo=microsoft&logoColor=white)
 
+🔗 [Voir la documentation du projet](https://best-secure-14c.notion.site/Doc-Client-Reporting-Power-BI-Pilotage-Qualit-de-Service-3272fd024ec380248d14de6bf7ed1cb6?source=copy_link)
+
 ![Transport](https://raw.githubusercontent.com/Aurelien-data/Aurelien-data/main/RQO_transport.png)
 
 ---
