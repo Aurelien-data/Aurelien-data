@@ -83,6 +83,7 @@ Mission Data Analyst BI complète sur 6 mois : structuration de l'ensemble de l'
 - Suivi quotidien des lots (Gaine, Plenum) avec taux d'avancement réel
 - Alertes visuelles sur retards, historisation par snapshots journaliers
 - Outil adopté immédiatement par les équipes terrain
+  ![Suivi_production](https://raw.githubusercontent.com/Aurelien-data/Aurelien-data/main/Suivi_Production_anonym.png)
 
 **Résultats :**
 - ✅ 15h de retraitement manuel économisées par mois
