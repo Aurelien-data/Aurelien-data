@@ -160,7 +160,7 @@ Pipeline Dataiku orienté conformité réglementaire CSRD et scoring ESG multi-c
 ![Python](https://img.shields.io/badge/Python-green?style=flat&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=microsoft-power-bi&logoColor=black)
 
-![Marche_vin_usa](https://raw.githubusercontent.com/Aurelien-data/Aurelien-data/main/Analyse_marche_vin_USA.png)
+![Marche_vin_usa](https://raw.githubusercontent.com/Aurelien-data/Aurelien-data/main/Analyse_marche_vin_usa.png)
 
 ---
 
