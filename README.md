@@ -71,7 +71,7 @@ Mission Data Analyst BI complète sur 6 mois : structuration de l'ensemble de l'
 - CA mensuel et YTD sur 3 exercices fiscaux (N/N-1/N-2) — consolidation Sage 100 + Batigest via ODBC
 - Mix d'activité Fourni vs Fourni-Posé par bureau et par représentant
 - Suivi encours clients : statut réglé/échu/en cours, jours de retard, DSO par client
-  [Mon image](Screen_CA_1-edited.png)
+  [Mon image]([Screen_CA_1-edited.png](https://github.com/Aurelien-data/Aurelien-data/blob/main/Screen_CA_1-edited.png))
 
 **📉 Rapport Charges Externes & SIG — Fiabilisation comptable**
 - Concordance au centime près avec le grand livre Sage 100
