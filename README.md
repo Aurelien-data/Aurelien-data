@@ -145,6 +145,8 @@ Pipeline Dataiku orienté conformité réglementaire CSRD et scoring ESG multi-c
 
 🔗 [Voir la documentation du projet](https://best-secure-14c.notion.site/Documentation-Client-2b72fd024ec3804884bdcce3c8edf04e?source=copy_link)
 
+![ESG](https://raw.githubusercontent.com/Aurelien-data/Aurelien-data/main/ESG_Double_materialite.png)
+
 ---
 
 ### 🍷 Analyse marché du vin aux USA — Conseil en pricing
