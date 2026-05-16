@@ -40,7 +40,7 @@ Ce qui me différencie : avant d'ouvrir Power BI, je comprends pourquoi un KPI c
 ## 🔄 Double compétence : Business & Data
 
 **9 ans chez EssilorLuxottica** — groupe international, leader mondial de l'optique :
-- Animateur Réseau Grands Comptes : création de Business Plans, animation d'enseignes stratégiques
+- Business développeur Grands Comptes : création de Business Plans, animation d'enseignes stratégiques
 - Trade Marketing Manager : pilotage de plans d'actions nationaux, budget OPEX/CAPEX 4 M€
 - Attaché Commercial BtoB : développement portefeuille clients, +1,7% de progression CA
 
