@@ -14,7 +14,7 @@
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6B3FA0?style=flat&logo=microsoft&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-🌐 Site web : [aurelien-data.github.io/Page_Pro](https://aurelien-data.github.io/Page_Pro)
+🌐 Site web : [aurelien-data.github.io](https://aurelien-data.github.io)
 
 🔗 LinkedIn : [linkedin.com/in/aurelien-prat](https://www.linkedin.com/in/aurelien-prat)
 
