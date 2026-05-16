@@ -24,7 +24,7 @@
 
 ## 🙋‍♂️ À propos de moi
 
-Business & Data Analyst, j'accompagne les PME dans la **structuration de leur écosystème data** — du cadrage métier à la mise en production de rapports Power BI opérationnels.
+Business & Data Analyst, j'accompagne les PME/ETI dans la **structuration de leur écosystème data** — du cadrage métier à la mise en production de rapports Power BI opérationnels.
 
 Ce qui me différencie : avant d'ouvrir Power BI, je comprends pourquoi un KPI compte, comment un DAF lit un SIG, et ce qu'un responsable commercial veut voir au quotidien. Mon background terrain nourrit directement ma conception des modèles décisionnels.
 
